@@ -1,5 +1,9 @@
 # CLOCKY
 
+# !!IMPORTANT NOTICE!!
+
+Dear reviewer, I live in Peoria, AZ, and I was planning a large final commit on Sunday because of a vast amount of work I had this week (school and PSAT and SAT), but the time zones caused it to close. On Half Life, the amount of hours shown is 6, but I actually worked 16 hours, as shown by the methodology and pictures below. Please take this into consideration. Thank you!
+
 ## Overview
 
 Clocky is the project for week 5 of Half Life by Hack Club. It is a mini clock keychain to be hung on a backpack using the latest technology, e-paper. I want it to need no charging, so choosing e-paper was my first idea. It is powered by a solar cell and RF harvesting from an antenna. All this powers an RTC, which powers an MCU that writes to the display. The display uses a charge booster to draw enough power to write itself.
