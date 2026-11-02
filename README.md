@@ -7,3 +7,10 @@ Clocky is the project for week 5 of Half Life by Hack Club. It is a mini clock k
 ## Methodology
 
 I first began by solving the power issue. My first thought was solar, but what if I left my clock in the dark for extended periods? Then I thought about RF harvesting, but it was only effective in places with high Wi-Fi yield, like houses. I decided to combine the two. The plan was to then store the voltage in a lithium-ion battery, but that might have been overkill, so I just settled for a supercapacitor, as it was much faster to charge and discharge. Then I went on LCSC and found extremely low-power RTCs and MCU's. I used Digi-Key for the e-paper and supercapacitor because they weren't available on LCSC.
+
+## Images
+
+
+<img width="585" height="473" alt="image" src="https://github.com/user-attachments/assets/7092aca3-5af2-432b-97be-3cc52e815a88" />
+
+<img width="1391" height="772" alt="image" src="https://github.com/user-attachments/assets/b341a6e0-c7f2-4df5-aab8-828a4d3c6195" />
